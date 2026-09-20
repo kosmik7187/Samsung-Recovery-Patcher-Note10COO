@@ -1,9 +1,0 @@
-# Ignore all recovery images I download/use
-*.img
-*.tar
-*.tar.md5
-*.lz4
-
-# Ignore a specific folder where I keep my work
-Firmware/
-firmware/
